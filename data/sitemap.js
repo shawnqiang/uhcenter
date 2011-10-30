@@ -25,4 +25,8 @@
 {
 "pageName":"Sets-Page",
 "type":"Wireframe",
-"url":"Sets-Page.html"}]}]};
+"url":"Sets-Page.html"},
+{
+"pageName":"shopping-cart",
+"type":"Wireframe",
+"url":"shopping-cart.html"}]}]};
