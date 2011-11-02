@@ -29,4 +29,16 @@
 {
 "pageName":"shopping-cart",
 "type":"Wireframe",
-"url":"shopping-cart.html"}]}]};
+"url":"shopping-cart.html"},
+{
+"pageName":"Sign in",
+"type":"Wireframe",
+"url":"Sign_in.html"},
+{
+"pageName":"Sign up",
+"type":"Wireframe",
+"url":"Sign_up.html"},
+{
+"pageName":"forgot password",
+"type":"Wireframe",
+"url":"forgot_password.html"}]}]};
