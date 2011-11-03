@@ -41,4 +41,20 @@
 {
 "pageName":"forgot password",
 "type":"Wireframe",
-"url":"forgot_password.html"}]}]};
+"url":"forgot_password.html"},
+{
+"pageName":"my account",
+"type":"Wireframe",
+"url":"my_account.html"},
+{
+"pageName":"my account-reset-password",
+"type":"Wireframe",
+"url":"my_account-reset-password.html"},
+{
+"pageName":"my account-address-book",
+"type":"Wireframe",
+"url":"my_account-address-book.html"},
+{
+"pageName":"my account-personal-info",
+"type":"Wireframe",
+"url":"my_account-personal-info.html"}]}]};

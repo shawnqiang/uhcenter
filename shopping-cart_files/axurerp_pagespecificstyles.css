@@ -668,7 +668,7 @@ div.main_container {
 .u34_line {
     position:absolute;
     left:230px;
-    top:1304px;
+    top:1204px;
     width:980px;
     height:3px;
 }
@@ -676,7 +676,7 @@ div.main_container {
 .u34 {
     position:absolute;
     left:230px;
-    top:1304px;
+    top:1204px;
     width:980px;
     height:3px
 }
@@ -684,7 +684,7 @@ div.main_container {
 .u35 {
     position:absolute;
     left:230px;
-    top:1320px;
+    top:1220px;
     width:980px;
     height:16px;
     ;
@@ -698,7 +698,7 @@ div.main_container {
 .u36 {
     position:absolute;
     left:230px;
-    top:1346px;
+    top:1246px;
     width:980px;
     height:16px;
     ;
@@ -2671,5 +2671,103 @@ div.main_container {
     top:590px;
     width:170px;
     height:115px
+}
+
+.u150_original {
+    background-image: url('../shopping-cart_files/u79_original.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:230px;
+    top:1052px;
+    width:660px;
+    height:30px;
+}
+
+#u150_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:666px;
+    height:36px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:656px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150 {
+    position:absolute;
+    left:230px;
+    top:1052px;
+    width:660px;
+    height:30px
+}
+
+.u152_original {
+    background-image: url('../shopping-cart_files/u81_original.png');
+}
+
+.u152_container {
+    position:absolute;
+    left:230px;
+    top:1050px;
+    width:660px;
+    height:2px;
+}
+
+#u152_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:666px;
+    height:8px;
+}
+
+.u153 {
+    position:absolute;
+    left:2px;
+    top:-7px;
+    width:656px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152 {
+    position:absolute;
+    left:230px;
+    top:1050px;
+    width:660px;
+    height:2px
+}
+
+.u154 {
+    position:absolute;
+    left:238px;
+    top:1059px;
+    width:314px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 

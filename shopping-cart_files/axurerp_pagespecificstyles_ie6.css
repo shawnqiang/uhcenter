@@ -233,3 +233,13 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="shopping-cart_files/u141_line.png");
 }
 
+* html .u150_original {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="shopping-cart_files/u79_original.png");
+}
+
+* html .u152_original {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="shopping-cart_files/u81_original.png");
+}
+
